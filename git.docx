@@ -1,0 +1,89 @@
+1. What is GitHub?
+
+GitHub is an online platform used by developers to store, manage, share, and collaborate on software projects. It works with Git, a version control system that records changes made to files over time. GitHub is commonly used for web development, programming, teamwork, and building a public portfolio.
+
+2. Git vs. GitHub
+
+Git is a version control tool installed on a computer. It tracks changes in a project and allows developers to create commits and branches. GitHub is an online service where Git repositories can be stored and shared with other people.
+
+Git: A version control system.
+
+GitHub: An online platform for hosting and collaborating on Git repositories.
+
+3. Creating a GitHub Account
+
+To use GitHub, create an account with an email address and a password. After signing in, you can create repositories, upload projects, collaborate with others, and manage your code.
+
+4. What is a Repository?
+
+A repository, often called a repo, is a project folder stored on GitHub. It can contain source code, images, documentation, and other project files. A repository also keeps a history of changes made to the project.
+
+5. Important GitHub Terms
+
+Commit: A saved record of changes made to project files.
+
+Push: Sends local commits from your computer to a remote GitHub repository.
+
+Pull: Gets changes from a remote repository and brings them to your local project.
+
+Clone: Creates a local copy of a GitHub repository on your computer.
+
+Branch: A separate line of development used to work on features or changes safely.
+
+Merge: Combines changes from one branch into another branch.
+
+README.md: A documentation file that explains what a project is and how to use it.
+
+6. How to Upload an HTML & CSS Project to GitHub
+
+1. Create your project folder on your computer.
+
+2. Add your HTML file, CSS file, images, and other required files.
+
+3. Open GitHub and sign in to your account.
+
+4. Create a new repository and give it a suitable name.
+
+5. Open the repository and choose the option to add or upload files.
+
+6. Upload your project files.
+
+7. Write a short commit message, such as 'Add HTML and CSS project'.
+
+8. Save the commit. Your project is now stored in the GitHub repository.
+
+7. Example Project Structure
+
+my-website/
+│
+├── index.html
+├── style.css
+├── images/
+│   └── image.jpg
+└── README.md
+
+8. Why is README.md Important?
+
+README.md is usually the first document people see when they open a repository. It explains the project and helps other developers understand its purpose, features, technologies, and how to run or use it.
+
+9. Benefits of GitHub
+
+Stores projects online.
+
+Keeps a history of changes.
+
+Makes teamwork easier.
+
+Allows developers to share their work.
+
+Helps students build a programming portfolio.
+
+Supports open-source projects.
+
+Makes it easier to manage different versions of a project.
+
+10. Conclusion
+
+GitHub is an important platform for students and developers. By learning repositories, commits, pushes, branches, and README files, a beginner can start managing projects and sharing code professionally. For an HTML and CSS student, GitHub is also a useful place to save projects and build a portfolio.
+
+
