@@ -9,7 +9,6 @@ To use GitHub, create an account with an email address and a password. After sig
 4. What is a Repository?
 A repository, often called a repo, is a project folder stored on GitHub. It can contain source code, images, documentation, and other project files. A repository also keeps a history of changes made to the project.
 5. Important GitHub Terms
-
 Commit: A saved record of changes made to project files.
 
 Push: Sends local commits from your computer to a remote GitHub repository.
