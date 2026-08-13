@@ -14,7 +14,6 @@ Push: Sends local commits from your computer to a remote GitHub repository.
 Pull: Gets changes from a remote repository and brings them to your local project.
 Clone: Creates a local copy of a GitHub repository on your computer.
 Branch: A separate line of development used to work on features or changes safely.
-
 Merge: Combines changes from one branch into another branch.
 
 README.md: A documentation file that explains what a project is and how to use it.
