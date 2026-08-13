@@ -6,7 +6,6 @@ Git: A version control system.
 GitHub: An online platform for hosting and collaborating on Git repositories.
 3. Creating a GitHub Account
 To use GitHub, create an account with an email address and a password. After signing in, you can create repositories, upload projects, collaborate with others, and manage your code.
-
 4. What is a Repository?
 
 A repository, often called a repo, is a project folder stored on GitHub. It can contain source code, images, documentation, and other project files. A repository also keeps a history of changes made to the project.
