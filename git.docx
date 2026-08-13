@@ -3,7 +3,6 @@ GitHub is an online platform used by developers to store, manage, share, and col
 2. Git vs. GitHub
 Git is a version control tool installed on a computer. It tracks changes in a project and allows developers to create commits and branches. GitHub is an online service where Git repositories can be stored and shared with other people.
 Git: A version control system.
-
 GitHub: An online platform for hosting and collaborating on Git repositories.
 
 3. Creating a GitHub Account
