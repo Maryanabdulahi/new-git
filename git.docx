@@ -33,7 +33,6 @@ my-website/
 ├── images/
 │   └── image.jpg
 └── README.md
-
 8. Why is README.md Important?
 
 README.md is usually the first document people see when they open a repository. It explains the project and helps other developers understand its purpose, features, technologies, and how to run or use it.
