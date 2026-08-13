@@ -11,7 +11,6 @@ A repository, often called a repo, is a project folder stored on GitHub. It can 
 5. Important GitHub Terms
 Commit: A saved record of changes made to project files.
 Push: Sends local commits from your computer to a remote GitHub repository.
-
 Pull: Gets changes from a remote repository and brings them to your local project.
 
 Clone: Creates a local copy of a GitHub repository on your computer.
