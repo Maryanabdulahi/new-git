@@ -26,6 +26,7 @@ README.md: A documentation file that explains what a project is and how to use i
 7. Write a short commit message, such as 'Add HTML and CSS project'.
 8. Save the commit. Your project is now stored in the GitHub repository.
 7. Example Project Structure
+
 my-website/
 │
 ├── index.html
@@ -33,6 +34,7 @@ my-website/
 ├── images/
 │   └── image.jpg
 └── README.md
+
 8. Why is README.md Important?
 README.md is usually the first document people see when they open a repository. It explains the project and helps other developers understand its purpose, features, technologies, and how to run or use it.
 9. Benefits of GitHub
